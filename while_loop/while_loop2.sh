@@ -3,7 +3,7 @@ while [ $n -le 10 ]
 do
 	if [ $n == 6 ]
 	then
-		echo "terminated"
+		echo "terminated..!!"
 		break
 	fi
 	echo $n
