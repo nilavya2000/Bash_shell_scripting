@@ -4,7 +4,7 @@ cnt=1
 while [ $valid ]
 	do
 	echo $cnt
-	if [ $cnt -eq 5 ];
+	if [ $cnt -eq 7 ];
 		then
 		break
 	fi
